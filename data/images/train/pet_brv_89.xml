@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>pet_brv_89.jpg</filename>
+	<path>/Users/vidalbenjoe/Documents/Machine Learning/Tensorflow/TRAINING_OBJECT/trash_detection/data/images/train/pet_brv_89.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PET #1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>78</ymin>
+			<xmax>461</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>
